@@ -1,6 +1,8 @@
-pandas==2.2.2
-numpy==2.0.0
-pip==24.3.1
+pandas
+numpy
+pip
 streamlit
+matplotlib
+plotly
 pickle-mixin
 scikit-learn

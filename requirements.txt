@@ -6,3 +6,4 @@ matplotlib
 plotly
 pickle-mixin
 scikit-learn
+seaborn
